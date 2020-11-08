@@ -1,2 +1,2 @@
-# Porojects_iamjatinnanda
+# Projects_iamjatinnanda
 Python|R
